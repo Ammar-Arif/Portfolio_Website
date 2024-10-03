@@ -232,17 +232,17 @@ section .title::after{
 /* about section styling */
 
 .about .about-content .left{
-    width: 45%;
+    width: 30%;
 }
 .about .about-content .left img{
     height: 400px;
-    width: 600px;
+    width: 500px;
     object-fit: cover;
     border-radius: 6px;
 }
 .about .about-content .right{
     width: 55%;
-    font-size: 28px;
+    font-size: 22px;
 }
 .about .about-content .right .text{
     font-size: 30px;
